@@ -19,4 +19,4 @@ Interactive Webpage can be found here:
 https://zhangkevq.github.io/Plotly_Deployment/
 
 ## Graphs created with Plotly
-![Website with Bar graph, Bubble chart, and Gauge]()
+![Website with Bar graph, Bubble chart, and Gauge](https://github.com/zhangkevq/Plotly_Deployment/blob/main/images/webpage.png)
